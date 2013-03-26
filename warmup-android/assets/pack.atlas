@@ -1,0 +1,47 @@
+
+pack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+huntersheettest
+  rotate: false
+  xy: 1, 11
+  size: 112, 16
+  orig: 112, 16
+  offset: 0, 0
+  index: -1
+pheasant
+  rotate: false
+  xy: 115, 11
+  size: 64, 16
+  orig: 64, 16
+  offset: 0, 0
+  index: -1
+fox
+  rotate: false
+  xy: 1, 1
+  size: 56, 8
+  orig: 56, 8
+  offset: 0, 0
+  index: -1
+rabbit
+  rotate: false
+  xy: 181, 19
+  size: 40, 8
+  orig: 40, 8
+  offset: 0, 0
+  index: -1
+rabbit_muted
+  rotate: false
+  xy: 59, 1
+  size: 40, 8
+  orig: 40, 8
+  offset: 0, 0
+  index: -1
+grass
+  rotate: false
+  xy: 223, 19
+  size: 24, 8
+  orig: 24, 8
+  offset: 0, 0
+  index: -1
